@@ -1,7 +1,5 @@
 ## Hey There, I'm Daniel 👋
 
-=============
-
 # Web Developer, Apassionate for the world of technology.
 
 I am a web developer, I have more than a year and a half of experience with a wide spectrum of skills in the field. I am completing an engineering degree in software development, I use programming languages ​​such as JavaScript, Python, PHP, Frameworks such as Angular, React, NextJS and the use of Technologies such as SQL, HTML5, CSS, GIT, Taiwild, Wordpress and NodeJS.
