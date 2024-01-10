@@ -1,20 +1,13 @@
-### Hola 👋
+## Hola Soy Daniel 👋
 
-# Soy Daniel, Desarrollador Web. Apasionado por el mundo de la programación y el software.
+=============
 
-Algunos de mis skills
-
-```html
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-```
+## Desarrollador Web, Apasionado por el mundo de la programación y el software.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="./icons/HTML.svg" width="48">
+    <img src="./icons/JavaScript.svg" width="48">
   </a>
 </p>
 
