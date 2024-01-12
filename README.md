@@ -2,9 +2,8 @@
 
 # Web Developer, Apassionate for the world of technology.
 
-Constantly learning and growing, I create intuitive, pleasant websites to provide innovative software solutions that transform concepts into digital experiences.
+Constantly learning and growing, I create intuitive, pleasant websites to provide innovative software solutions that transform concepts into digital experiences. I use programming languages ​​such as JavaScript, TypeScript, Python, PHP, Frameworks such as Angular, React, NextJS and the use of Technologies such as SQL, HTML5, CSS, GIT, Taiwild, Vercel, Wordpress and NodeJS.
 
-I use programming languages ​​such as JavaScript, TypeScript, Python, PHP, Frameworks such as Angular, React, NextJS and the use of Technologies such as SQL, HTML5, CSS, GIT, Taiwild, Vercel, Wordpress and NodeJS.
 
 <p align="center">
   <a href="https://skillicons.dev">
