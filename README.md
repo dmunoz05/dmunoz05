@@ -2,7 +2,11 @@
 
 # Web Developer, Apassionate for the world of technology.
 
-I am a web developer, I have more than a year and a half of experience with a wide spectrum of skills in the field. I am completing an engineering degree in software development, I use programming languages ​​such as JavaScript, Python, PHP, Frameworks such as Angular, React, NextJS and the use of Technologies such as SQL, HTML5, CSS, GIT, Taiwild, Wordpress and NodeJS.
+Constantly learning and growing, I create intuitive, pleasant websites to provide innovative software solutions that transform concepts into digital experiences.
+
+<p align="center">
+  Languages ​​and tools that I use:
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,6 +24,8 @@ I am a web developer, I have more than a year and a half of experience with a wi
     <img src="./icons/TailwindCSS-Dark.svg" widtH="48">
     <img src="./icons/Wordpress.svg" widtH="48">
     <img src="./icons/NodeJS-Dark.svg" widtH="48">
+    <img src="./icons/TypeScript.svg" widtH="48">
+    <img src="./icons/Vercel-Dark.svg" widtH="48">
   </a>
 </p>
 
