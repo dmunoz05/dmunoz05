@@ -8,20 +8,22 @@ Constantly learning and growing, I create intuitive, pleasant websites to provid
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="./icons/JavaScript.svg" width="48">
-    <img src="./icons/TypeScript.svg" widtH="48">
+    <img src="./icons/TypeScript.svg" width="48">
     <img src="./icons/Python-Dark.svg" width="48">
-    <img src="./icons/PHP-Dark.svg" widtH="48">
-    <img src="./icons/Angular-Dark.svg" widtH="48">
-    <img src="./icons/React-Dark.svg" widtH="48">
-    <img src="./icons/NextJS-Dark.svg" widtH="48">
-    <img src="./icons/PostgreSQL-Dark.svg" widtH="48">
+    <img src="./icons/PHP-Dark.svg" width="48">
+    <img src="./icons/Angular-Dark.svg" width="48">
+    <img src="./icons/React-Dark.svg" width="48">
+    <img src="./icons/NextJS-Dark.svg" width="48">
+    <img src="./icons/PostgreSQL-Dark.svg" width="48">
+    <img src="./icons/MySQL-Dark.svg"  width="48">
+    <img src="./icons/SQLite.svg" width="48">
     <img src="./icons/HTML.svg" width="48">
-    <img src="./icons/CSS.svg" widtH="48">
-    <img src="./icons/Git.svg" widtH="48">
-    <img src="./icons/TailwindCSS-Dark.svg" widtH="48">
-    <img src="./icons/Vercel-Dark.svg" widtH="48">
-    <img src="./icons/Wordpress.svg" widtH="48">
-    <img src="./icons/NodeJS-Dark.svg" widtH="48">
+    <img src="./icons/CSS.svg" width="48">
+    <img src="./icons/Git.svg" width="48">
+    <img src="./icons/TailwindCSS-Dark.svg" width="48">
+    <img src="./icons/Vercel-Dark.svg" width="48">
+    <img src="./icons/Wordpress.svg" width="48">
+    <img src="./icons/NodeJS-Dark.svg" width="48">
   </a>
 </p>
 
