@@ -16,7 +16,6 @@ Constantly learning and growing, I create intuitive, pleasant websites to provid
     <img src="./icons/NextJS-Dark.svg" width="48">
     <img src="./icons/PostgreSQL-Dark.svg" width="48">
     <img src="./icons/MySQL-Dark.svg"  width="48">
-    <img src="./icons/SQLite.svg" width="48">
     <img src="./icons/HTML.svg" width="48">
     <img src="./icons/CSS.svg" width="48">
     <img src="./icons/Git.svg" width="48">
