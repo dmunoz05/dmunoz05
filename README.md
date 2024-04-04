@@ -26,7 +26,7 @@ Constantly learning and growing, I create intuitive, pleasant websites to provid
 </p>
 
 
-### 📊 My Stats and Most Used Languajes:
+## My Stats and Most Used Languajes:
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dmunoz05&theme=onedark" alt="dmunoz05 github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmunoz05&theme=tokyonight" /></a> |
 | ------------- | ------------- |
