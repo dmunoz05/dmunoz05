@@ -1,8 +1,8 @@
 ## 👋🏻 I'm Daniel
 
-I'am a apassionate for the world of technology, in constantly learning and growing, i create intuitive,pleasant websites to provide innovative software solutions that transform concepts into digital experiences. I use programming languages ​​such as JavaScript, TypeScript, Python, PHP, Frameworks such as Angular, React, NextJS and the use of Technologies such as SQL, HTML5, CSS, GIT, Taiwild, Vercel, Wordpress and NodeJS.
+Hello, I'am a web developer, apassionate for the world of technology, in constantly learning and growing, i create intuitive,pleasant websites to provide innovative software solutions that transform concepts into digital experiences. I use programming languages ​​such as JavaScript, TypeScript, Python, PHP, Frameworks such as Angular, React, NextJS and the use of Technologies such as SQL, HTML5, CSS, GIT, Taiwild, Vercel, Wordpress and NodeJS.
 
-## 💻 Web Developer
+## 💻 Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
