@@ -28,18 +28,5 @@ I'am a apassionate for the world of technology, in constantly learning and growi
 
 ## 📊 GitHub Stats:
 
-| <a href="https://github.com/dmunoz05"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dmunoz05&theme=onedark" alt="dmunoz05 github stats" /></a> | <a href="https://github.com/dmunoz05"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmunoz05&theme=tokyonight" /></a> |
+| <a href="https://github.com/dmunoz05"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dmunoz05&theme=radical" alt="dmunoz05 github stats" /></a> | <a href="https://github.com/dmunoz05"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmunoz05&theme=tokyonight" /></a> |
 | ------------- | ------------- |
-
-![](https://github-readme-stats.vercel.app/api?username=dmunoz05&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dmunoz05&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dmunoz05&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=dmunoz05&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmunoz05&theme=onedark)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmunoz05&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-
