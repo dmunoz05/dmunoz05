@@ -25,8 +25,7 @@ Hello, I'am a web developer, apassionate for the world of technology, in constan
   </a>
 </p>
 
-
 ## 📊 GitHub Stats:
 
 | <a href="https://github.com/dmunoz05"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dmunoz05&theme=tokyonight" alt="dmunoz05 github stats" /></a> | <a href="https://github.com/dmunoz05"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmunoz05&theme=tokyonight" /></a> |
-| ------------- | ------------- |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
