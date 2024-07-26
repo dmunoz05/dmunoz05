@@ -2,7 +2,7 @@
 
 Hello, I'am a web developer, apassionate for the world of technology, in constantly learning and growing, i create intuitive,pleasant websites to provide innovative software solutions that transform concepts into digital experiences. -->
 
-# 💫 About Me:
+# 👋🏻 About Me:
 
 Web developer, passionate about the world of technology, constantly learning and growing. I focus on developing intuitive and enjoyable websites to offer innovative software solutions that transform concepts into digital experiences.
 
