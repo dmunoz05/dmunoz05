@@ -2,15 +2,15 @@
 
 Hello, I'am a web developer, apassionate for the world of technology, in constantly learning and growing, i create intuitive,pleasant websites to provide innovative software solutions that transform concepts into digital experiences. -->
 
-# 👋🏻 About Me:
+# 💫 About Me:
 
 Web developer, passionate about the world of technology, constantly learning and growing. I focus on developing intuitive and enjoyable websites to offer innovative software solutions that transform concepts into digital experiences.
 
-### 🌐 Socials:
+## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dmunozholguin05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dmunoz05)
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,7 +32,7 @@ Web developer, passionate about the world of technology, constantly learning and
   </a>
 </p>
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 | <a href="https://github.com/dmunoz05"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dmunoz05&theme=tokyonight" alt="dmunoz05 github stats" /></a> | <a href="https://github.com/dmunoz05"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmunoz05&theme=tokyonight" /></a> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -48,7 +48,7 @@ Web developer, passionate about the world of technology, constantly learning and
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dmunoz05&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dmunoz05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-### 🔝 Top Contributed
+## 🔝 Top Contributed
 
 | <a href="https://github.com/dmunoz05"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=dmunoz05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="dmunoz05 github stats" /></a> | <a href="https://github.com/dmunoz05"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dmunoz05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
