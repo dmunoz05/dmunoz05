@@ -50,8 +50,8 @@ Web developer, passionate about the world of technology, constantly learning and
 
 ### 🔝 Top Contributed Repo
 
-| ![](https://github-contributor-stats.vercel.app/api?username=dmunoz05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/dmunoz05"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=dmunoz05&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="dmunoz05 github stats" /></a> | <a href="https://github.com/dmunoz05"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dmunoz05&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
 
